@@ -1,0 +1,23 @@
+{
+  "name": "s529236",
+  "version": "1.0.0",
+  "description": "Basic practice for a class",
+  "main": ".mongorc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infraction71/node-server.git"
+  },
+  "keywords": [
+    "git",
+    "practice"
+  ],
+  "author": "Matthew Berry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Infraction71/node-server/issues"
+  },
+  "homepage": "https://github.com/Infraction71/node-server#readme"
+}
